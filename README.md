@@ -1,0 +1,2 @@
+# wxfilemanager
+FILE MANAGER UBUNTO SERVER AND TERMUX 
