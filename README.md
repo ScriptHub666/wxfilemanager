@@ -44,8 +44,8 @@ pip install colorama
 ### Download
 
 ```bash
-git clone https://github.com/yourusername/sadwx-file-manager.git
-cd sadwx-file-manager
+git clone https://github.com/ScriptHub666/wxfilemanager.git
+cd wxfilemanager
 chmod +x f.py
 ```
 
@@ -130,7 +130,7 @@ Browse through large directories with automatic pagination (20 items per page)
 ## 🔗 Links
 
 - 💬 **Telegram Channel**: [https://t.me/sadwxtm](https://t.me/sadwxtm)
-- 🐛 **Report Issues**: [GitHub Issues](https://github.com/yourusername/sadwx-file-manager/issues)
+- 🐛 **Report Issues**: [GitHub Issues](https://github.com/ScriptHub666/wxfilemanager/issues)
 
 ## 🤝 Contributing
 
